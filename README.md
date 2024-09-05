@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" />
+  <img width="12" />
+  <i class="devicon-express-original-wordmark"></i>
 </div>
 
 ###
