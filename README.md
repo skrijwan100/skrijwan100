@@ -1,5 +1,5 @@
 <h1 align="center">SK RIJWAN</h1>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ###
 
 <img align="right" height="100" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"  />
@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" />
   <img width="12" />
-<i class="devicon-express-original-wordmark"></i>
+
 
 ###
 
