@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Hi;I+am+Sk+Rijwan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Hi+I+am+Sk+Rijwan)](https://git.io/typing-svg)
 
+<hr/>
 ###
 
 <img align="right" height="100" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"  />
