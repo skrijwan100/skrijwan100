@@ -46,9 +46,6 @@
   <a href="https://www.linkedin.com/in/sekh-rijwan-026740311/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="linkedin logo"  />
   </a>
-<!--   <a href="https://www.youtube.com/watch?v=01HR1uP4kic&list=RDEM7Ns3NHgLFgga7CtLl6IACQ&index=5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" width="116" alt="youtube logo"  />
-  </a> -->
   <a href="https://www.instagram.com/skrijwan100/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" width="130" alt="instagram logo"  />
   </a>
@@ -71,7 +68,7 @@
 
 | [![ Sk Rijwan github stats](https://github-readme-stats-mc4l.vercel.app/api?username=skrijwan100&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=ffffff&icon_color=ffffff&text_color=c778dd&border_color=ffffff&border_radius=8)](https://github.com/skrijwan100#gh-dark-mode-only) | [![Sk Rijwan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skrijwan100&background=transparent&ring=c778dd&border_radius=8&currStreakLabel=ffffff&currStreakNum=c778dd&sideNums=ffffff&sideLabels=c778dd&dates=ffffff)](https://github.com/skrijwan#gh-dark-mode-only) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![Sk Rijwan github stats](https://github-readme-stats-mc4l.vercel.app/api?username=skrijwan100&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=000000&icon_color=000000&text_color=c778dd&border_color=000000&border_radius=8)](https://github.com/skrijwan100#gh-light-mode-only) | [![Sk Rijwan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skrijwan100&background=transparent&ring=c778dd&border_radius=8&currStreakLabel=000000&currStreakNum=c778dd&sideNums=000000&sideLabels=c778dd&dates=000000)](https://github.com/skrijwan100#gh-light-mode-only) |
+| [![Sk Rijwan github stats](https://github-readme-stats-mc4l.vercel.app/api?username=skrijwan100&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=000000&icon_color=000000&text_color=c778dd&border_color=000000&border_radius=8)](https://github.com/skrijwan100#gh-light-mode-only) |
 
 [![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skrijwan100&bg_color=transparent&line=c778dd&point=c998dd&title_color=ffffff&&hide_border=false#gh-dark-mode-only)](https://github.com/skrijwan100#gh-dark-mode-only)
 
