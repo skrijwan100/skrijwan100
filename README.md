@@ -21,7 +21,7 @@
 ![Sqlite](https://skillicons.dev/icons?i=sqlite&theme=dark)
 ![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
-![C](https://skillicons.dev/icons?i=cpp&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
 ![npm](https://skillicons.dev/icons?i=npm&theme=dark)
 
 </div>
