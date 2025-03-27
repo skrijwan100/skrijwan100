@@ -5,7 +5,7 @@
 <img align="right" height="100" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"  />
 
 ###
-
+### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
