@@ -65,3 +65,18 @@
 </div>
 
 ###
+<br />
+
+### Github Stats 📊
+
+| [![ Sk Rijwan github stats](https://github-readme-stats-mc4l.vercel.app/api?username=skrijwan100&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=ffffff&icon_color=ffffff&text_color=c778dd&border_color=ffffff&border_radius=8)](https://github.com/skrijwan100#gh-dark-mode-only) | [![Sk Rijwan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skrijwan100&background=transparent&ring=c778dd&border_radius=8&currStreakLabel=ffffff&currStreakNum=c778dd&sideNums=ffffff&sideLabels=c778dd&dates=ffffff)](https://github.com/skrijwan#gh-dark-mode-only) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![Sk Rijwan github stats](https://github-readme-stats-mc4l.vercel.app/api?username=skrijwan100&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=000000&icon_color=000000&text_color=c778dd&border_color=000000&border_radius=8)](https://github.com/skrijwan100#gh-light-mode-only) | [![Sk Rijwan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skrijwan100&background=transparent&ring=c778dd&border_radius=8&currStreakLabel=000000&currStreakNum=c778dd&sideNums=000000&sideLabels=c778dd&dates=000000)](https://github.com/skrijwan100#gh-light-mode-only) |
+
+[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skrijwan100&bg_color=transparent&line=c778dd&point=c998dd&title_color=ffffff&&hide_border=false#gh-dark-mode-only)](https://github.com/skrijwan100#gh-dark-mode-only)
+
+<!-- Light Mode -->
+
+[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skrijwan100&bg_color=ffffff&line=c778dd&point=c998dd&text_color=c778dd&&hide_border=false#gh-light-mode-only)](https://github.com/skrijwan100#gh-light-mode-only)
+
+<br>
