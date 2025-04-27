@@ -3,7 +3,7 @@
 <hr/>
 
 ###
-### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
+### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20" alt="tech">
 <div align="center">
 
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
