@@ -66,3 +66,4 @@
 [![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skrijwan100&bg_color=ffffff&line=c778dd&point=c998dd&text_color=c778dd&&hide_border=false#gh-light-mode-only)](https://github.com/skrijwan100#gh-light-mode-only)
 
 <br>
+![GitHub Repo stars](https://img.shields.io/github/stars/skrijwan100/PPT-maker-ai?style=social)
